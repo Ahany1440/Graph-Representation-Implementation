@@ -1,6 +1,6 @@
 # Graph Representation Project
 
-This Python project provides a robust implementation of fundamental graph representations, inspired by Chapter 10 of *Rosen, Discrete Mathematics and Its Applications*.
+This Python project implements fundamental graph representations, inspired by Chapter 10 of *Rosen, Discrete Mathematics and Its Applications*.
 
 The project demonstrates how to generate a large, complex directed graph and perform conversions between different data structures used to represent graphs.
 
